@@ -21,7 +21,7 @@ pipeline {
             }
         }
 
-        stage('Test') {
+        stage('Testrest') {
             steps {
                 echo 'Running tests...'
                 // Insert your test commands here
