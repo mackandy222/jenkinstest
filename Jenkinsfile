@@ -6,8 +6,9 @@ jetID="mytestjetid"
 echo "Pipeline execution"
 
 def deployasdraft() {
-    echo "test"
+    echo "fdftest"
 }
+
 
 pipeline {
     agent any
